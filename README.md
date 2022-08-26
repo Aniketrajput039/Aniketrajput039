@@ -1,6 +1,7 @@
+[![MasterHead](https://www.unikainfocom.in/file/2017/09/bigdata.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">A passionate Data Engineer from India, And motivated individual with knowledge of languages and development tools.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketrajput039&label=Profile%20views&color=0e75b6&style=flat" alt="aniketrajput039" /> </p>
 
 - 🔭 I’m currently working with **Velotio as Data Engineer.**
