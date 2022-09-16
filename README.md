@@ -23,15 +23,15 @@
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img
       src="https://spark.apache.org/docs/latest/img/spark-logo-hd.png"
-      alt="arduino"
+      alt="spark"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://en.wikipedia.org/wiki/Big_data" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
+      src="https://previews.123rf.com/images/4zevar/4zevar1711/4zevar171100015/90786683-big-data-icon.jpg?fj=1"
+      alt="Big Data"
       width="40"
       height="40"
     />
