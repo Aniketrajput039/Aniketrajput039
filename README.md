@@ -79,21 +79,21 @@
     />
   </a>
   <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    href="https://en.wikipedia.org/wiki/Machine_learning"
     target="_blank"
     rel="noreferrer"
   >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
+      src="https://c8.alamy.com/comp/W4C7G3/machine-learning-thin-line-icon-creative-simple-design-from-artificial-intelligence-icons-collection-outline-machine-learning-icon-for-web-design-W4C7G3.jpg"
+      alt="Machine Learning"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
+      src="https://c8.alamy.com/comp/W4C82N/deep-learning-thin-line-icon-creative-simple-design-from-artificial-intelligence-icons-collection-outline-deep-learning-icon-for-web-design-and-W4C82N.jpg"
+      alt="Deep Learning"
       width="40"
       height="40"
     />
