@@ -19,7 +19,133 @@
 <br>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://middlemanapp.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://sapper.svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/sapper.svg" alt="sapper" width="40" height="40"/> </a> <a href="https://sculpin.io/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/1782aef8672484698c0dd407f900c4a329ed5bc4/sculpin.svg" alt="sculpin" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
+      alt="arduino"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg"
+      alt="hive"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg"
+      alt="ifttt"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      alt="linux"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://middlemanapp.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg"
+      alt="middleman"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      alt="nextjs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
+      alt="nuxtjs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://sapper.svelte.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/sapper.svg"
+      alt="sapper"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://sculpin.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/1782aef8672484698c0dd407f900c4a329ed5bc4/sculpin.svg"
+      alt="sculpin"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
+      alt="unity"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"
+      alt="unreal"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://zapier.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg"
+      alt="zapier"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
 <hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketrajput039&show_icons=true&locale=en&theme=onedark" alt="aniketrajput039" /></p>
