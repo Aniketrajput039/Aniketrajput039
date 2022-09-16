@@ -20,6 +20,32 @@
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img
       src="https://spark.apache.org/docs/latest/img/spark-logo-hd.png"
@@ -44,10 +70,10 @@
       height="40"
     />
   </a>
-  <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
+  <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg"
-      alt="ifttt"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5sG71erd3EZsNUPcFIyAf_Xd5_3Ki4nrMcP9bssdS5Z6jREMWvshano5Fx2-uN8Qrhhg&usqp=CAU"
+      alt="ETL"
       width="40"
       height="40"
     />
