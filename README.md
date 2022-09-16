@@ -106,10 +106,10 @@
       height="40"
     />
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
+      src="https://airflow.apache.org/images/feature-image.png"
+      alt="Airflow"
       width="40"
       height="40"
     />
