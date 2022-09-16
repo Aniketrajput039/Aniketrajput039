@@ -98,10 +98,10 @@
       height="40"
     />
   </a>
-  <a href="https://middlemanapp.com/" target="_blank" rel="noreferrer">
+  <a href="https://flink.apache.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg"
-      alt="middleman"
+      src="https://flink.apache.org/img/flink-header-logo.svg"
+      alt="Flink"
       width="40"
       height="40"
     />
