@@ -130,47 +130,22 @@
       height="40"
     />
   </a>
-  <a href="https://sapper.svelte.dev/" target="_blank" rel="noreferrer">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/sapper.svg"
-      alt="sapper"
+      src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg"
+      alt="AWS"
+      width="40"
+      height="40"
+    />
+  <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer">
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNsjs_dKjwc9ZKQWnIms6SdrSUyw6P7H8bxg&usqp=CAU"
+      alt="SnowFlake"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://sculpin.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/1782aef8672484698c0dd407f900c4a329ed5bc4/sculpin.svg"
-      alt="sculpin"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
-      alt="unity"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"
-      alt="unreal"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://zapier.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg"
-      alt="zapier"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+  </p>
 <hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketrajput039&show_icons=true&locale=en&theme=onedark" alt="aniketrajput039" /></p>
