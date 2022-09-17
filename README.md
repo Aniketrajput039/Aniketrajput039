@@ -114,18 +114,18 @@
       height="40"
     />
   </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://delta.io/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
-      alt="nuxtjs"
+      src="https://spark.apache.org/images/delta-lake-logo.png"
+      alt="Delta Lake"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
+      src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_logo_icon_167866.png"
+      alt="Kafka"
       width="40"
       height="40"
     />
